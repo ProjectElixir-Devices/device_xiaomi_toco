@@ -185,6 +185,11 @@ vendor/etc/camera/eyelineblush.cng
 -vendor/lib64/libtriplecam_video_optical_zoom.so
 -vendor/lib64/libxmi_high_dynamic_range.so
 
+# Camera face detection
+vendor/etc/camera/megviifacepp_0_5_2_model:vendor/etc/camera/facedetectpp_0_5_2_model
+-vendor/lib64/libMegviiFacepp-0.5.2.so:vendor/lib64/libFaceDetectpp-0.5.2.so
+-vendor/lib64/libmegface.so:vendor/lib64/libfacedet.so
+
 # Camera Visidon
 vendor/lib64/camera/components/etc/visidon_clearshot_params.xml
 -vendor/lib64/camera/components/com.visidon.node.clearshot.so
