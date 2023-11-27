@@ -1,4 +1,4 @@
-# These proprietary files are extracted from Xiaomi Mi Note 10 Lite (codenamed `toco`) MIUI V13.0.6.0.SFNEUXM, unless pinned
+# These proprietary files are extracted from Xiaomi Mi Note 10 Lite (codenamed `toco`) MIUI V13.0.4.0.SFNMIXM, unless pinned
 
 # Audio ACDB
 vendor/etc/acdbdata/Tutu/Tutu_Bluetooth_cal.acdb
