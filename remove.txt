@@ -1,0 +1,7 @@
+device/xiaomi
+hardware/lineage/compat
+hardware/xiaomi
+kernel/xiaomi
+packages/apps/ViPER4AndroidFX
+prebuilts/clang/host/linux-x86/clang-playground
+vendor/xiaomi
