@@ -3,6 +3,5 @@ hardware/lineage/compat
 hardware/xiaomi
 kernel/xiaomi
 packages/apps/ViPER4AndroidFX
-prebuilts/clang/host/linux-x86/r498229b
 vendor/qcom/opensource/vibrator
 vendor/xiaomi
